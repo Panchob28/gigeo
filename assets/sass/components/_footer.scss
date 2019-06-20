@@ -1,0 +1,21 @@
+.footer__h3{
+  font-weight: $bold;
+}
+
+.col-12{
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+@media (min-width: 768px){
+   .col-md-3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  }
+}
+
+@media (max-width: 1200px){
+   .footer__h2{
+     text-align: center;
+   }
+}
